@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WeiboCrawler.iml" filepath="$PROJECT_DIR$/WeiboCrawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nlp-lang/nlp-lang.iml" filepath="$PROJECT_DIR$/../nlp-lang/nlp-lang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testGradle/testGradle.iml" filepath="$PROJECT_DIR$/../testGradle/testGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../topic_model/topic_model.iml" filepath="$PROJECT_DIR$/../topic_model/topic_model.iml" />
+    </modules>
+  </component>
+</project>
+
